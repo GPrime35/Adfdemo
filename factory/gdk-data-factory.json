@@ -1,0 +1,9 @@
+{
+	"name": "gdk-data-factory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99546ca4-7022-43c5-aaa9-b64dc4743d3c",
+		"tenantId": "1b198fdf-7772-42f3-b2c0-6d66fc0f2fe3"
+	}
+}
